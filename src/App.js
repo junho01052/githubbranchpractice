@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React@@@@@@@@@@@@@@@@@@@@@@@
+          안돼 세현이 영역이야 만지지마
         </a>
       </header>
     </div>
